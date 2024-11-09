@@ -1,2 +1,2 @@
 # Signal_Processing
-Digital Signal Processing Tasks
+Digital signal processing and filter implementations
